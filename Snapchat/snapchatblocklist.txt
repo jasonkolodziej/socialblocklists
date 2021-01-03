@@ -77,10 +77,6 @@
 0.0.0.0 chat-gateway-prod.chat.snapchat.com
 0.0.0.0 gtq.sct.sc-prod.ne
 0.0.0.0 tib.snssdk.com
-# 0.0.0.0 loca.sc-jpl.com
-0.0.0.0 mvm.snapchat.com
-0.0.0.0 us-central1-gcp.api.snapchat.com
-0.0.0.0 webattachments.snapchat.com
 0.0.0.0 d3cwhzzyyewihk.cloudfront.net
 0.0.0.0 aws.duplex.snapchat.com
 0.0.0.0 internal-api.snapkit.com
