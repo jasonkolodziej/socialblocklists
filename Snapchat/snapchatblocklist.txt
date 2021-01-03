@@ -21,11 +21,11 @@
 # 0.0.0.0 mvm.snapchat.com
 
 # Snapchat Login
-0.0.0.0 pro-accounts.snapchat.com
-0.0.0.0 auth.snapchat.com
+# 0.0.0.0 pro-accounts.snapchat.com
+# 0.0.0.0 auth.snapchat.com
 
 # Snapkit
-0.0.0.0 api.snapkit.com
+# 0.0.0.0 api.snapkit.com
 
 # Other
 0.0.0.0 sc-cdn.net
