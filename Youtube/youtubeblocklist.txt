@@ -320,10 +320,8 @@ r6---sn-qxo7rn7e.googlevideo.com
 r6---sn-vgqsenlz.googlevideo.com
 s.googlevideo.com
 ssl-google-analytics.l.google.com
-youtu.be
 youtube-nocookie.com
 youtube-ui.l.google.com
-youtube.com
 youtube.googleapis.com
 youtubei.googleapis.com
 yt.moatads.com
