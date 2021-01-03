@@ -24,8 +24,9 @@
 # 0.0.0.0 pro-accounts.snapchat.com
 # 0.0.0.0 auth.snapchat.com
 
-# Snapkit
+# Snapkit / APIs
 # 0.0.0.0 api.snapkit.com
+# 0.0.0.0 api.snapchat.com
 
 # Other
 0.0.0.0 sc-cdn.net
@@ -42,14 +43,11 @@
 0.0.0.0 us-east1-aws.api.snapchat.com
 0.0.0.0 us-east4-gcp.api.snapchat.com
 0.0.0.0 europe-west1-gcp.api.snapchat.com
-0.0.0.0 images.bitmoji.com
+# 0.0.0.0 images.bitmoji.com
 0.0.0.0 us-east1-aws.api.snapchat.com
-0.0.0.0 api.snapchat.com
 0.0.0.0 us-east1-aws.api.sc-gw.com
 0.0.0.0 snap-storage-cdn.l.google.com
-0.0.0.0 snap.events.mapbox.com
 0.0.0.0 ms.sc-jpl.com
-0.0.0.0 snap.api.mapbox.com
 0.0.0.0 st-lb.sc-jpl.com
 0.0.0.0 loc.sc-jpl.com
 0.0.0.0 cognac-prod.appspot.com
@@ -86,3 +84,5 @@
 
 # Location?
 # 0.0.0.0 loca.sc-jpl.com
+# 0.0.0.0 snap.api.mapbox.com
+# 0.0.0.0 snap.events.mapbox.com
